@@ -1,2 +1,1 @@
-Apple-App-Store-Assignment---2_Sukender-Kuskuntla
-The apple app store analysis along with insights.
+The apple app store data is analysed to under the performance of applications based on various KPI's.
